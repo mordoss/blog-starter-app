@@ -13,12 +13,9 @@ const CoverImage = ({ title, src, slug }: Props) => {
             src={src}
             alt={`Cover Image for ${title}`}
             style={{ margin: 'auto' }}
-            className={cn(
-                'shadow-sm hover:scale-105 transition:scale duration-500',
-                {
-                    'hover:shadow-lg transition-all duration-500': slug,
-                }
-            )}
+            className={cn('shadow-sm hover:scale-105 transition-all', {
+                'hover:shadow-lg transition-all duration-500': slug,
+            })}
         />
     );
     return (
