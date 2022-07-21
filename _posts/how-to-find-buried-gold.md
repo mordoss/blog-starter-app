@@ -1,18 +1,18 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'How to find buried gold'
+excerpt: 'First of all, if you have in your possession an old map which is marked with the exact places where something is buried, then you are very lucky! '
+coverImage: '/assets/blog/buried-gold/cover.jpg'
+date: '2022-07-21T05:35:07.322Z'
 author:
-    name: Tim Neutkens
-    picture: '/assets/blog/authors/tim.jpeg'
+    name: Darko Milic
+    picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-    url: '/assets/blog/hello-world/cover.jpg'
+    url: '/assets/blog/hello-world/jj.jpg'
 ---
 
-## Lorem Ipsum
+## How to find buried gold
 
-First of all, if you have in your possession an old map which is marked with the exact places where something is buried, then you are very lucky! .
+First of all, if you have in your possession an old map which is marked with the exact places where something is buried, then you are very lucky!
 
 There may be a few problems with reading certain symbols on the map because the author of this map has drawn some of his own symbols which mark obstacles, traps, holes, rivers and the main symbol where the treasure is buried.
 

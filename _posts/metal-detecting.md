@@ -1,7 +1,7 @@
 ---
 title: 'Metal Detecting'
 excerpt: 'Metal detecting is a very profitable hobby that can change your future by you simply going out into field .'
-coverImage: '/assets/blog/dynamic-routing/cover2.jpg'
+coverImage: '/assets/blog/metal-detecting/cover.jpg'
 date: '2022-07-16T05:35:07.322Z'
 author:
     name: Darko Milic
